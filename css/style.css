@@ -42,8 +42,8 @@ body { margin: 0; font-size: 1em; line-height: 1.4; }
  * Also: hot pink! (or customize the background color to match your design)
  */
 
-::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
-::selection { background: #fe57a1; color: #fff; text-shadow: none; }
+/*::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
+::selection { background: #fe57a1; color: #fff; text-shadow: none; }*/
 
 
 /* =============================================================================
@@ -220,7 +220,7 @@ td { vertical-align: top; }
 
 
 body{
-font: 1.15em 'Arapey', serif;
+font: 1.15em 'Oswald', serif;
 margin: 0 0 1em 0;
 }
 
@@ -243,7 +243,7 @@ border-bottom: solid 3px #8b1515;
 
 header h1{
 font-size: 1.5em;
-font-family: 'Gorditas', cursive;
+font-family: 'Montserrat', sans-serif;
 margin: 0
 padding: 0;
 -webkit-margin-before: 0;
@@ -255,9 +255,9 @@ margin-right: 10px;
 
 .picnic {
 background-color:white;
-background-image: linear-gradient(90deg, rgba(200,0,0,.5) 50%, transparent 50%),
+/*background-image: linear-gradient(90deg, rgba(200,0,0,.5) 50%, transparent 50%),
 linear-gradient(rgba(200,0,0,.5) 50%, transparent 50%);
-background-size:50px 50px;
+background-size:50px 50px;*/
 }
 
 
@@ -291,7 +291,7 @@ color: #8b1515;
 
 footer h2{
 font-size: 1em;
-font-family: 'Gorditas', cursive;
+font-family: 'Montserrat', sans-serif;
 
 }
 
@@ -300,7 +300,7 @@ font-size: 1.5em;
 }
 
 #free{
-font-family: 'Gorditas', cursive;
+font-family: 'Montserrat', sans-serif;
 }
 
 #free:hover{
@@ -340,7 +340,7 @@ td,th{
 tr.headrow th{
 font-size: 4em;
 color: white;
-font-family: 'Gorditas', cursive;
+font-family: 'Montserrat', sans-serif;
 background: #268080;
 text-shadow: -1px -1px 0 #333;
 
